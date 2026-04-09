@@ -1,0 +1,15 @@
+<svg width="400" height="250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4ecdc4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6b6b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="250" fill="url(#grad1)"/>
+  <rect x="20" y="20" width="360" height="210" fill="rgba(255,255,255,0.1)" rx="10"/>
+  <text x="200" y="80" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Poovizhi Farms</text>
+  <text x="200" y="110" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16">E-Commerce Platform</text>
+  <text x="200" y="140" text-anchor="middle" fill="#e0e0e0" font-family="Arial, sans-serif" font-size="14">MERN Stack • Organic Products</text>
+  <circle cx="200" cy="180" r="25" fill="rgba(255,255,255,0.2)"/>
+  <text x="200" y="187" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">🛒</text>
+</svg>
