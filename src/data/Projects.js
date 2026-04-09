@@ -15,8 +15,8 @@ const projects = [
     description: "A lightweight task management application built with HTML, CSS, and JavaScript. Features add/delete tasks, mark as complete, and save to local storage with live updates.",
     image: "/assets/images/todo-app.svg",
     technologies: ["HTML", "CSS", "JavaScript", "Local Storage"],
-    githubUrl: "https://github.com/ShobiyaKavinraj/todo-list-app",
-    liveUrl: "https://your-todo-app.netlify.app",
+    // githubUrl: "https://github.com/ShobiyaKavinraj/todo-list-app",
+    // liveUrl: "https://your-todo-app.netlify.app",
     featured: true
   },
   {
@@ -25,8 +25,8 @@ const projects = [
     description: "HTML/CSS/JS based homepage replica of Flipkart featuring navbar, slider, product grid, and responsive design across all screen sizes.",
     image: "/assets/images/flipkart-clone.svg",
     technologies: ["HTML", "CSS", "JavaScript", "Responsive Design"],
-    githubUrl: "https://github.com/ShobiyaKavinraj/flipkart-clone",
-    liveUrl: "https://your-flipkart-clone.netlify.app",
+    // githubUrl: "https://github.com/ShobiyaKavinraj/flipkart-clone",
+    // liveUrl: "https://your-flipkart-clone.netlify.app",
     featured: false
   },
   {
@@ -36,7 +36,7 @@ const projects = [
     image: "/assets/images/portfolio.svg",
     technologies: ["React", "React Router", "CSS3", "Animations"],
     githubUrl: "https://github.com/ShobiyaKavinraj/portfolio-website",
-    liveUrl: "https://your-portfolio-website.netlify.app",
+    liveUrl: "https://shobiya-portfolio.vercel.app",
     featured: true
   }
 ];
